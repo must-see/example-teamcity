@@ -4,6 +4,7 @@
   <description />
   <settings>
     <options>
+      <option name="artifactRules" value="target/*.jar" />
       <option name="publishArtifactCondition" value="SUCCESSFUL" />
     </options>
     <parameters />
