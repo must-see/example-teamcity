@@ -16,5 +16,4 @@ public class Welcomer{
 	public String sayHunter() {
             return "hunter";
     }
-
 }
